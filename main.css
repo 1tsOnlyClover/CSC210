@@ -1,18 +1,18 @@
 body {
     margin: 20px;
-    background-color: #fff3fc; 
-    color: #39282f; 
+    background-color: #f2d2d3;
+    color: #c79797	;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 }
 h1 {
-    color: #754e72; 
+    color: #b35f81;
 }
 table, th, td {
   border: 1px solid;
 }
 tbody tr:nth-child(even) { background-color: #fcdcdc; }
 tbody th{
-    background-color: #754e72;
+    background-color: #b35f81;
     color: #fcdcdc;
 }
 thead th { width: 25%; }
